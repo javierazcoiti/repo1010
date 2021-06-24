@@ -16,5 +16,3 @@ substitutions:
   _PROJECT_NUMBER_CHANGED: a${PROJECT_NUMBER}-something
   _BUILD_ID_CHANGED: ${BUILD_ID}-something
 
-options:
-  dynamic_substitutions: false
